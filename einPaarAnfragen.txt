@@ -1,0 +1,27 @@
+zeige alle filmtitel und deren ersscheinungsdatum, deren erscheinungsdatum am 01.01.2005 oder früher ist
+
+zeige die städte und die einwohneranzahl, derer städte, die über 5000 einwohner haben
+
+zeige den namen und vornamen von dem schauspieler mit der schauspielerid XXXX
+
+zeige alle filmtitel an, in denen der schauspieler mit der id XXXX mitspielt
+
+zeige wie viele suchanfragen es gab, in denen nach "google*" gesucht wurde
+
+zeige wie viele suchanfragen es gab, in denen nach "myspace*" gesucht wurde
+
+zeige wie viele suchanfragen es gab, in denen nach "facebook*" gesucht wurde
+
+zeige wie viele suchanfragen es gab, in denen nach "aol*" gesucht wurde
+
+zeige wie viele suchanfragen es gab, in denen nach "twitter*" gesucht wurde
+
+zeige wie viele suchanfragen es gab, in denen nach "youtube*" gesucht wurde
+
+zeige welche suchanfragen es gab, in denen nach "*privacy*" gesucht wurde und wie oft nach diesen gesucht wurde
+
+zeige welche suchanfragen es gab, in denen nach "*tor browser*" gesucht wurde und wie oft nach diesen gesucht wurde
+
+zeige alle urls, die direkt nach der suchanfrage aufgerufen worden sind, ohne erneut nach dem begriff zu suchen
+
+zeige alle suchanfragen, nach denen nur ein einziges mal gescuht worden ist
